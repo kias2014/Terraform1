@@ -1,5 +1,5 @@
 variable "prefix" {
-  default = "terratestazure00"
+  default = "terratestazure02"
 }
 
 resource "azurerm_resource_group" "main" {
